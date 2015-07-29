@@ -28,7 +28,7 @@ class Pig
       if @current_player == 'Human'
         @p1score += @dice_val 
         puts "Your score is #{@p1score}. \n Would you like to roll or hold?"
-        puts @@prompt
+        print @@prompt
         answer = gets.chomp.downcase
         if answer == 'roll'
           roll
