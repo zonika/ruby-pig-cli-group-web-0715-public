@@ -19,5 +19,6 @@ _At least one person must be plugged into the monitors!_
 
 5. Bonus (only work on these if you finish everything else!):
   - Support multiplayer or a computer player
+  - Write tests!
   - Multiple "games" – first player to 100 wins
   - Be creative :) 
